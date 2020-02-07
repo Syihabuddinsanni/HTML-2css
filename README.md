@@ -1,8 +1,11 @@
 # HTML-2css
 
 # Latihan 1
-![Alt text](https://github.com/Syihabuddinsanni/GUI_PBO2/blob/master/SS%20OUTPUT/LATIHAN1.PNG)
+![Alt text](https://github.com/Syihabuddinsanni/HTML-2css/blob/master/SS/Latihan1.PNG)
 
+
+# Latihan 2
+![Alt text](https://github.com/Syihabuddinsanni/HTML-2css/blob/master/SS/Latihan2.PNG)
 # Latihan 3
 ![Alt text](https://github.com/Syihabuddinsanni/HTML-2css/blob/master/SS/Latihan3.PNG)
 
